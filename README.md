@@ -1,2 +1,2 @@
-# A136_TPA828.exe
-Malware That I Made in C++ It 64-Bit
+# A136_TPA828
+C++ skidded GDI trojan by Hugopako
